@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/my-first-static-web-app/dist'
+  publicPath: '/my-first-static-web-app'
 }
